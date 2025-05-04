@@ -1,19 +1,21 @@
-title: "Upperboat"
+title: "Amy Chen"
 logo: "/images/bio_photo.png?raw=true"
 description: >
-  Welcome to Upperboat — a place where creativity meets insight. 
+  Hi, I'm Amy. I'm currently pursuing my master's degree in Information Systems with a focus on AI, data analytics, and product development.
   <br><br>
-  I'm passionate about data, strategy, and innovation.
+This portfolio highlights projects that combine technical skills with real-world applications, including stock prediction models, AI explainability tools, and chatbot systems designed with governance in mind. I’m always looking for ways to make AI more useful, transparent, and human-centered.
+
+Thank you for visiting.
   <br><br>
-  <a href="https://www.linkedin.com/in/larrychencpa/" target="_blank">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/amy-ching-yang-chen/" target="_blank">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Amy Chen"
+  email: "chingyang1025@gmail.com"
 
 # Build settings
 markdown: kramdown
